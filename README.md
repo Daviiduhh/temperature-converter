@@ -9,12 +9,10 @@ This project is designed to help practice DOM manipulation, form handling, and b
 - The **Convert** button is enabled only when all fields are filled.
 - After conversion, the result is displayed below the form.
 
-## Technologies Used
+## Links
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- DOM manipulation
+- **Challenge Link**: [Temperature Converter Challenge](https://roadmap.sh/projects/temperature-converter)
+- **Demo Link**: [Live Demo](https://temperature-converter-daviiduhh.netlify.app/)
 
 ## How to Use
 
